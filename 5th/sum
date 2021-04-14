@@ -4,6 +4,6 @@ function sum(a, b) {
 function lsh(a, b){
   return a-b;
 }
-function sjs(a, b){
+function kdh(a, b){
   return a * b;
 }
